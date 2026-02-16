@@ -9,3 +9,6 @@ Basic overview with some more details about CPU, Memory, Disk and Network
 Basic overview with some more details about CPU, Memory, Disk and Network 
 ![Windows-dashboard-overview](https://github.com/user-attachments/assets/b423e1f2-7ebb-4816-a28d-d2fc174bad1c)
 
+### [Zabbix Docker Overview Dashboard](https://github.com/Scifire/grafana-dashboards/blob/main/zabbix/docker.json)
+Docker overview with stats for single container. 
+<img width="3840" height="1667" alt="image" src="https://github.com/user-attachments/assets/37bf24b1-ff06-431e-90d3-2367aa5896ab" />
